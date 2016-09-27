@@ -1,6 +1,6 @@
 import React from 'react';
-import DisplayBox from './display-box/display-box'
-import MultiSelect from './multi-select'
+import DisplayBox from './widgets/display-box/display-box'
+import MultiSelect from './widgets/multi-select'
 
 let items = [
   {value: 2, label: 'two'},
